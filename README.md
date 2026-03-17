@@ -12,7 +12,6 @@
 ## Main Projects
 - **[OpenClaw](https://github.com/openclaw/openclaw)** - TypeScript - The original full-featured personal AI assistant with multi-agent routing, voice wake, live canvas, companion apps, and 15+ messaging channels.
 - **[PicoClaw](https://github.com/sipeed/picoclaw)** - Go - Ultra-efficient assistant for low-cost hardware with AI-bootstrapped migration, single-binary deploy, and support for old Android phones.
-- **[ClawDroid](https://github.com/KarakuriAgent/clawdroid)** - Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.
 - **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** - Rust - Trait-driven, zero-overhead AI infrastructure with a fully swappable core that deploys across environments.
 - **[nanobot](https://github.com/HKUDS/nanobot)** - Python - Ultra-lightweight OpenClaw-style assistant focused on research workflows, one-click deploy, MCP support, and agent social networking.
 - **[TinyClaw](https://github.com/TinyAGI/tinyclaw)** - Shell / TypeScript - Multi-agent, multi-team, multi-channel assistant where agents collaborate via chain execution and fan-out in isolated workspaces.
@@ -42,6 +41,7 @@
 - **[SupaClaw](https://github.com/vincenzodomina/supaclaw)** - Typescript - Built entirely on Supabase built-in features. Use within your Supabase account or fully self-host.
 - **[pickle-bot](https://github.com/czl9707/pickle-bot)** - Python - A lightweight self-hosted personal AI assistant
 - **[OpenFang](https://github.com/RightNow-AI/openfang)** - Rust - Open-source Agent OS built in Rust. 137K LOC. 14 crates. 1,767+ tests. Zero clippy warnings.
+- **[ClawDroid](https://github.com/KarakuriAgent/clawdroid)** - Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.
 
 
 ## Contributing
