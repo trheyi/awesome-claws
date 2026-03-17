@@ -42,6 +42,7 @@
 - **[pickle-bot](https://github.com/czl9707/pickle-bot)** - Python - A lightweight self-hosted personal AI assistant
 - **[OpenFang](https://github.com/RightNow-AI/openfang)** - Rust - Open-source Agent OS built in Rust. 137K LOC. 14 crates. 1,767+ tests. Zero clippy warnings.
 - **[ClawDroid](https://github.com/KarakuriAgent/clawdroid)** - Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.
+- **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** - Python / TypeScript - Self-improving AI agent with autonomous skill creation, persistent memory, multi-platform messaging, and subagent delegation.
 
 
 ## Contributing
